@@ -1,0 +1,36 @@
+body {
+  background-color: lightcyan;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: red;
+  border-width: 3px;
+  width: 5%;
+}
+h1{
+  color: #79d70f;
+}
+h3{
+  color: gold;
+}
+.first{
+  color: red;
+}
+.second{
+  color: orange;
+}
+.third{
+  color: blue;
+}
+.fourth{
+  color: green;
+}
+.fifth{
+  color: purple;
+}
+.im:hover{
+background-color: silver;
+  border-radius:500%;
+}
